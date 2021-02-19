@@ -1,5 +1,5 @@
-# DDos-Attack 
-### What Is A DDos-Attack
+# DDOSMRVIRUS
+### What Is A DDOSMRVIRUS
 
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
@@ -7,13 +7,13 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/MRV1RU55PM/DDOSMRVIRUS
 
-### cd DDos-Attack
+### cd DDOSMRVIRUS
 
-### chmod +x ddos-attack.py
+### chmod +x DdosMr.py
 
-### python ddos-attack.py
+### python DdosMr.py
 
 ### ScreenShot 
 
@@ -21,9 +21,9 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### YouTube channel
 
-https://www.youtube.com/c/HA-MRX
+https://www.youtube.com/c/MR VIRUS SPM
 
 ### Video Tutorial
 
-https://www.youtube.com/watch?v=-e3Iia_P7rA
+https://www.youtube.com/GK ada asw
 
